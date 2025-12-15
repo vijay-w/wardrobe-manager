@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">穿搭管理器</string>
+    
+    <!-- Navigation -->
+    <string name="nav_wardrobe">衣橱</string>
+    <string name="nav_outfits">穿搭</string>
+    <string name="nav_statistics">统计</string>
+    <string name="nav_settings">设置</string>
+    
+    <!-- Common -->
+    <string name="add">添加</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="search">搜索</string>
+    <string name="filter">筛选</string>
+    
+    <!-- Clothing -->
+    <string name="add_clothing">添加衣服</string>
+    <string name="clothing_name">衣服名称</string>
+    <string name="clothing_category">分类</string>
+    <string name="clothing_rating">评分</string>
+    <string name="clothing_price">价格</string>
+    <string name="purchase_link">购买链接</string>
+    <string name="notes">备注</string>
+    
+    <!-- Categories -->
+    <string name="category_top">上衣</string>
+    <string name="category_bottom">下装</string>
+    <string name="category_outerwear">外套</string>
+    <string name="category_shoes">鞋子</string>
+    <string name="category_accessory">配饰</string>
+    
+    <!-- Image -->
+    <string name="take_photo">拍照</string>
+    <string name="choose_from_gallery">从相册选择</string>
+    <string name="image_source">选择图片来源</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">需要相机权限来拍照</string>
+    <string name="storage_permission_required">需要存储权限来保存图片</string>
+    
+    <!-- Errors -->
+    <string name="error_saving_image">保存图片失败</string>
+    <string name="error_loading_image">加载图片失败</string>
+    <string name="error_invalid_url">无效的链接格式</string>
+    <string name="error_required_field">此字段为必填项</string>
+</resources>
